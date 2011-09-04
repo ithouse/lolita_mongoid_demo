@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-LolitaMongoidDemo::Application.config.secret_token = '2914952b2014057efcd32b0e2bb62af587201f042c8245cfe88d2c61b550b9decb2310356ea4d3713212441999b7217da8504bfb63a8efa893355a48257f6a18'
+LolitaMongoidDemo::Application.config.secret_token = '5af34f7a19a467aac9a6454b4637ea91d72b54fe8f35df438f5b9d1dc68a51cf893812d5cda03af6ee97ab1402e8bebb149a515fe2bff5d7a2d2764401da8d67'

@@ -2,8 +2,8 @@
 Lolita.setup do |config|
   # ==> User and authentication configuration
   # Add one or more of your user classes to Lolita
-   config.user_classes << Admin
-   config.authentication = :authenticate_admin!
+  # config.user_classes << MyUser
+  # config.authentication = :authenticate_user!
   
   # Define authentication for Lolita controllers.
   # Call some of your own methods
